@@ -1,6 +1,6 @@
 ### Olá, eu sou Monique Neto.👋
 - 🔭 Bacharel em Engenharia de Software.
-- 🌱 Atualmente estou participando de um Programa de Inovação da Moura. #MouraTech
+- 🌱 Atualmente participei de um Programa de Inovação da Moura. #MouraTech
 - 📫 Como chegar até mim: mfn4477@gmail.com.
 - 😄 Pronomes: ela/dela.
 - ⚡ Curiosidades: Sou capricorniana, minha personalidade é cônsul, tenho 22 anos, sou autêntica e proativa, além de ter um espírito de líder.
