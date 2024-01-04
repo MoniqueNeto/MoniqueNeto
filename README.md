@@ -1,5 +1,5 @@
 ### Olá, eu sou Monique Neto.👋
-- 🔭 Bacharel em Engenharia de Software.
+- 🔭 Engenheria de Software.
 - 🌱 Atualmente participei de um Programa de Inovação da Moura. #MouraTech
 - 📫 Como chegar até mim: mfn4477@gmail.com.
 - 😄 Pronomes: ela/dela.
