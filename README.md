@@ -5,6 +5,9 @@
 - 😄 Pronomes: ela/dela.
 - ⚡ Curiosidades: Sou capricorniana, minha personalidade é cônsul, tenho 22 anos, sou autêntica e proativa, além de ter um espírito de líder.
 
+<h3 align="center"># Formado em Engenharia de Software :man_technologist: </h3> 
+<h5><p align="center">Você é o visitante número: <img align="center" src="https://profile-counter.glitch.me/MoniqueNeto/count.svg"</p></h5>
+
 <div aling="center">
   <a href="https://github.com/MoniqueNeto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoniqueNeto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
