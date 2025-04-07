@@ -1,9 +1,9 @@
 ### Olá, eu sou Monique Neto.👋
 - 🔭 Engenheria de Software.
-- Desenvolvedor FullStack
+- Desenvolvedor Front-end
 - 📫 Como chegar até mim: mfn4477@gmail.com.
 - 😄 Pronomes: ela/dela.
-- ⚡ Curiosidades: Sou capricorniana, minha personalidade é cônsul, tenho 23 anos, sou autêntica e proativa, além de ter um espírito de líder.
+- ⚡ Curiosidades: Sou capricorniana, minha personalidade é cônsul, tenho 24 anos, sou autêntica e proativa, além de ter um espírito de líder.
 
 <h3 align="center"># Formado em Engenharia de Software :man_technologist: </h3> 
 <h5><p align="center">Você é o visitante número: <img align="center" src="https://profile-counter.glitch.me/MoniqueNeto/count.svg"</p></h5>
